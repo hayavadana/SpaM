@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">maps</string>
+    <string name="savecontact">SaveContact</string>
+    <string name="addcontact">Contact</string>
+    <string name="action_save">Save</string>
+    <string name="action_settings">action Settings</string>
+    <string name="title_activity_sliding_menu">SlidingMenu</string>
+
+    <string name="navigation_drawer_open">Open</string>
+    <string name="navigation_drawer_close">Close</string>
+    <string name="hint">Name/Location</string>
+    <string name="contacts_list_toolbar_title">Contacts</string>
+    <string name="display_contact_name">Name</string>
+    <string name="display_contact_lat">latitude</string>
+    <string name="display_contact_lng">longitude</string>
+    <string name="displaycontactedittext">latitude</string>
+    <string name="navTitle0">Home</string>
+    <string name="navTitle1">List of Contacts</string>
+    <string name="navTitle2">Add a Place From Map</string>
+    <string name="navTitle3">Add New Lat Lng</string>
+    <string name="navTitle4">Contacts On Map</string>
+    <string name="navheader_description">navigation header</string>
+    <string name="navheader_Title">HAYAVADANA</string>
+    <string name="navheader_mailid">hayavadana.soft@gmail.com</string>
+    <string name="textview_button">Save</string>
+    <string name="latlng_tView_Name">Conatct Name</string>
+    <string name="Input_lat_lng">latlng</string>
+    <string name="cBoxDelete"></string>
+    <string name="imgButtnCL">delete</string>
+    <string name="contactAvatar"></string>
+
+    <string name="banner_ad_unit_id">ca-app-pub-3940256099942544/6300978111</string>
+</resources>

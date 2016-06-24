@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="com.hayavadana.maps.ToolbarActivity">
+
+
+    <android.support.v7.widget.Toolbar
+        android:id="@+id/toolbar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/wallet_dim_foreground_disabled_holo_dark">
+
+
+
+    <EditText
+        android:id="@+id/eText"
+        android:layout_width="fill_parent"
+        android:layout_height="50dp"
+        android:paddingBottom="1dp"
+        android:inputType="text"
+        android:layout_gravity="center_horizontal"
+        android:hint="@string/hint"
+        android:textColor="@android:color/black" />
+
+
+
+    </android.support.v7.widget.Toolbar>
+
+
+</LinearLayout>

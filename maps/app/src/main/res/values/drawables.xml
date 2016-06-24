@@ -1,0 +1,11 @@
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+    <item name="nav_ic_home" type="drawable">@drawable/ic_home</item>
+    <item name="nav_ic_list" type="drawable">@drawable/ic_list</item>
+    <item name="nav_ic_place" type="drawable">@drawable/ic_place</item>
+    <item name="nav_ic_pin_drop" type="drawable">@drawable/ic_pin_drop</item>
+    <item name="nav_ic_location_history" type="drawable">@drawable/ic_location_history</item>
+    <item name="menu_ic_person_add" type="drawable">@drawable/ic_person_add</item>
+    <item name="menu_ic_save" type="drawable">@drawable/ic_save</item>
+    <item name="nav_header_ic_logo" type="drawable">@mipmap/ic_logo</item>
+
+</resources>

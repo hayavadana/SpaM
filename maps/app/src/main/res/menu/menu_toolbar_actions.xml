@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.hayavadana.maps.MapsActivity">
+
+    <!-- "all buttons", should appear as action button if possible -->
+
+
+    <!-- AddContact button -->
+
+    <item
+        android:id="@+id/iPerson_add"
+        android:icon="@drawable/ic_person_add"
+        android:title="@string/addcontact"
+        android:hint="@string/hint"
+        android:onClick="onItem1Click"
+        app:showAsAction="ifRoom"/>
+
+    <!-- Save Button-->
+    <item
+
+        android:id="@+id/iSave"
+        android:icon="@drawable/ic_save"
+        android:title="@string/action_save"
+        android:onClick="onItem2Click"
+        app:showAsAction="ifRoom"/>
+
+
+</menu>
+
+
+
